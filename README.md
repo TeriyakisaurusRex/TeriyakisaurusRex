@@ -12,13 +12,18 @@
 | Project | Result |
 | ------- | ------ |
 | [Piscine](https://github.com/TeriyakisaurusRex/42Piscine) | Accepted |
-| [Libft](https://github.com/TeriyakisaurusRex/42School/tree/master/libft) | ![image](https://user-images.githubusercontent.com/94874173/154878658-21f8042d-cee0-4569-8885-d7ee1b4215ac.png) |
-| [Born2beroot](https://github.com/TeriyakisaurusRex/42School/tree/master/Born2beroot) | Started |
-| [get_next_line](https://github.com/TeriyakisaurusRex/42School/tree/master/get_next_line) | Started |
-| [printf](https://github.com/TeriyakisaurusRex/42School/tree/master/ft_printf) | Not Started |
+| [Libft](https://github.com/TeriyakisaurusRex/42School/tree/master/libft) | ![image](https://img.shields.io/badge/Success-125%25-brightgreen) |
+| [Born2beroot](https://github.com/TeriyakisaurusRex/42School/tree/master/Born2beroot) | ![image](https://img.shields.io/badge/Status-Started-blue) |
+| [get_next_line](https://github.com/TeriyakisaurusRex/42School/tree/master/get_next_line) | ![image](https://img.shields.io/badge/Status-Started-blue) |
+| [printf](https://github.com/TeriyakisaurusRex/42School/tree/master/ft_printf) | ![image](https://img.shields.io/badge/Status-Not%20Started-yellow) |
 
 
 ## Still trying to understand [recursion](https://github.com/TeriyakisaurusRex#still-trying-to-understand-recursion)
+
+[![TeriyakisaurusRex's GitHub stats](https://github-readme-stats.vercel.app/api?username=TeriyakisaurusRex&show_icons=true&theme=highcontrast)](https://github.com/TeriyakisaurusRex/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TeriyakisaurusRex&layout=compact)](https://github.com/TeriyakisaurusRex/github-readme-stats)
+
 
 <!--
 **TeriyakisaurusRex/TeriyakisaurusRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
