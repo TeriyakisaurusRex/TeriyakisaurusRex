@@ -18,7 +18,7 @@
 | [printf](https://github.com/TeriyakisaurusRex/42School/tree/master/ft_printf) | Not Started |
 
 
-## Still trying to understand [recursion](https://github.com/TeriyakisaurusRex/TeriyakisaurusRex/blob/main/README.md#still-trying-to-understand-recursion)
+## Still trying to understand [recursion](https://github.com/TeriyakisaurusRex#still-trying-to-understand-recursion)
 
 <!--
 **TeriyakisaurusRex/TeriyakisaurusRex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
