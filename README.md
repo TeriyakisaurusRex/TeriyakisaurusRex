@@ -13,9 +13,10 @@
 | ------- | ------ |
 | [Piscine](https://github.com/TeriyakisaurusRex/42Piscine) | Accepted |
 | [Libft](https://github.com/TeriyakisaurusRex/42School/tree/master/libft) | [![image](https://img.shields.io/badge/Success-125%25-brightgreen)](https://github.com/TeriyakisaurusRex/42School/tree/master/libft#result) |
-| [Born2beroot](https://github.com/TeriyakisaurusRex/42School/tree/master/Born2beroot) | [![image](https://img.shields.io/badge/Status-Started-blue)](https://github.com/TeriyakisaurusRex/42School/tree/master/Born2beroot#result) |
+| [Born2beroot](https://github.com/TeriyakisaurusRex/42School/tree/master/Born2beroot) | [![image](https://img.shields.io/badge/Success-106%25-brightgreen)](https://github.com/TeriyakisaurusRex/42School/tree/master/Born2beroot#result) |
 | [get_next_line](https://github.com/TeriyakisaurusRex/42School/tree/master/get_next_line) | [![image](https://img.shields.io/badge/Success-101%25-brightgreen)](https://github.com/TeriyakisaurusRex/42School/tree/master/get_next_line#result) |
 | [ft_printf](https://github.com/TeriyakisaurusRex/42School/tree/master/ft_printf) | [![image](https://img.shields.io/badge/Success-100%25-brightgreen)](https://github.com/TeriyakisaurusRex/42School/tree/master/ft_printf#result) |
+| [minitalk](https://github.com/TeriyakisaurusRex/42School/tree/master/minitalk) | [![image](https://img.shields.io/badge/Status-Started-blue)](https://github.com/TeriyakisaurusRex/42School/tree/master/minitalk#result)
 
 
 ## Still trying to understand [recursion](https://github.com/TeriyakisaurusRex#still-trying-to-understand-recursion)
