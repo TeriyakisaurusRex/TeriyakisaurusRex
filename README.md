@@ -17,7 +17,7 @@
 | [get_next_line](https://github.com/TeriyakisaurusRex/42School/tree/master/get_next_line) | [![image](https://img.shields.io/badge/Success-101%25-brightgreen)](https://github.com/TeriyakisaurusRex/42School/tree/master/get_next_line#result) |
 | [ft_printf](https://github.com/TeriyakisaurusRex/42School/tree/master/ft_printf) | [![image](https://img.shields.io/badge/Success-100%25-brightgreen)](https://github.com/TeriyakisaurusRex/42School/tree/master/ft_printf#result) |
 | [minitalk](https://github.com/TeriyakisaurusRex/42School/tree/master/minitalk) | [![image](https://img.shields.io/badge/Success-125%25-brightgreen)](https://github.com/TeriyakisaurusRex/42School/tree/master/minitalk#result)
-| [fract-ol](https://github.com/TeriyakisaurusRex/42School/tree/master/fract-ol) | [![image](https://img.shields.io/badge/Status-Started-yellow)](https://github.com/TeriyakisaurusRex/42School/tree/master/fract-ol#result)
+| [fract-ol](https://github.com/TeriyakisaurusRex/42School/tree/master/fract-ol) | [![image](https://img.shields.io/badge/Success-125%25-brightgreen)](https://github.com/TeriyakisaurusRex/42School/tree/master/fract-ol#result)
 | [push-swap](https://github.com/TeriyakisaurusRex/42School/tree/master/push-swap) | [![image](https://img.shields.io/badge/Status-Unstarted-blue)](https://github.com/TeriyakisaurusRex/42School/tree/master/push-swap#result)
 
 ## Still trying to understand [recursion](https://github.com/TeriyakisaurusRex#still-trying-to-understand-recursion)
